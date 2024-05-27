@@ -1,4 +1,4 @@
-![image search api](https://raw.githubusercontent.com/QuackTheCode/FeatherC2/main/images/Feather%20C2.webp)
+![image search api](https://raw.githubusercontent.com/QuackTheCode/FeatherC2/main/images/Feather%20C2.jpg)
 
 # FeatherC2
 
